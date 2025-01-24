@@ -4,7 +4,7 @@ Examen de automatizacion
 Requisitos previos
 Antes de ejecutar el script, asegúrate de tener los siguientes requisitos:
 
-Python 3.x: El script está escrito en Python 3. Asegúrate de tener Python instalado en tu sistema.
+Python 3.13.1: El script está escrito en Python 3. Asegúrate de tener Python instalado en tu sistema.
 
 Instalar Selenium: Selenium es una herramienta de automatización de navegadores. Para instalarla, ejecuta el siguiente comando:
 
