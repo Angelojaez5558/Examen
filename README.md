@@ -21,7 +21,7 @@ Pasos para ejecutar el código
 2. - Configura el WebDriver: Si no tienes ChromeDriver en tu PATH, edita la siguiente línea para incluir la ruta completa de tu chromedriver:
      driver = webdriver.Chrome(executable_path="ruta_a_tu_chromedriver") ("Igual opcional en mi caso tampoco se requirio este paso").
 3. - Ejecuta el script: Abre una terminal o línea de comandos y navega al directorio donde guardaste el archivo examen.py. Luego ejecuta el siguiente comando:
-  python mercadolibre_automatizado.py
+  python examen.py
 4. - Proceso de ejecución: El script hará lo siguiente:
 
         Abrirá la página de Mercado Libre.
